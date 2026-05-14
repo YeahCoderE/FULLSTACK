@@ -1,7 +1,7 @@
 let trun = true;// treu x
 let btnCliced = 0;
 let btns = document.querySelectorAll('.btn');
-
+let dcjndc9v = "fcd";
 btns.forEach((b)=>{
     b.addEventListener('click', btnClick)
 });
